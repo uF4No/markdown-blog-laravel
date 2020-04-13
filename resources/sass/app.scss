@@ -1,0 +1,35 @@
+/* 
+* resources/sass/app.scss
+*/
+// Imports Tailwind CSS
+
+/* purgecss start ignore */
+@tailwind base;
+@tailwind components;
+/* purgecss end ignore */
+@tailwind utilities;
+
+
+
+// Forms
+.label{
+  @apply block text-gray-700 text-sm font-bold mb-2;
+}
+.input{
+  @apply appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight;
+}
+.input-white{
+  @apply appearance-none block w-full bg-white text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight;
+}
+.input:focus{
+  @apply outline-none bg-white border-gray-500;
+}
+.btn {
+  @apply font-bold py-2 px-4 rounded;
+}
+.btn-green {
+  @apply bg-green-500 text-white;
+}
+.btn-green:hover {
+  @apply bg-green-700;
+}
