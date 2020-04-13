@@ -1,4 +1,4 @@
-# Laravel 7 Markdown blog (wiht TailwindCSS + PurgeCSS)
+# Laravel 7 Markdown blog (with TailwindCSS + PurgeCSS)
 This is a Laravel scaffold project based in Laravel 7 to create a markdown blog. I also includes TailwindCSS and PurgeCSS.
 
 ## Install
