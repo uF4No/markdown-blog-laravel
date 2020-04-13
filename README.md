@@ -1,5 +1,5 @@
-# Laravel 7 + TailwindCSS + PurgeCSS
-This is a Laravel scaffold project based in Laravel 7 and including TailwindCSS and PurgeCSS.
+# Laravel 7 Markdown blog (wiht TailwindCSS + PurgeCSS)
+This is a Laravel scaffold project based in Laravel 7 to create a markdown blog. I also includes TailwindCSS and PurgeCSS.
 
 ## Install
 Run ```composer install``` to install all Laravel dependencies.
@@ -10,9 +10,9 @@ Run ```npm i ``` to install Tailwind, PurgeCSS and all other dependencies.
 Run ```npm run watch``` and ```php artisan serve``` locally to start the server and watch for changes in your /resources/scss/app.css file. If you preffer to use plain css, add your classes in resources/css/yourfile.css. Once your project is ready to deploy to prod run ```npm run prod``` to generate the css files with purged unused classes.
 
 
-
-
-
+## Author
+Antonio Ufano
+I publish how-to articles and guides in [my web](https://antonioufano.com). Follow me on [Twitter](https://twitter.com/uf4no) for quick tips, updates and interesting articles.
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
