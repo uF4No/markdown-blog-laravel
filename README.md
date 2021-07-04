@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/uF4No/markdown-blog-laravel)
+
 # Laravel 7 Markdown blog (with TailwindCSS + PurgeCSS)
 This is a Laravel scaffold project based in Laravel 7 to create a markdown blog. I also includes TailwindCSS and PurgeCSS.
 
